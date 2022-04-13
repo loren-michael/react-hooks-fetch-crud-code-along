@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "bugs",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Waffles",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "blueberries",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
